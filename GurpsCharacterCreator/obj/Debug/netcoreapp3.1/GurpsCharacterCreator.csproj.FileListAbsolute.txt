@@ -1,0 +1,13 @@
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\bin\Debug\netcoreapp3.1\GurpsCharacterCreator.exe
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\bin\Debug\netcoreapp3.1\GurpsCharacterCreator.deps.json
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\bin\Debug\netcoreapp3.1\GurpsCharacterCreator.runtimeconfig.json
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\bin\Debug\netcoreapp3.1\GurpsCharacterCreator.runtimeconfig.dev.json
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\bin\Debug\netcoreapp3.1\GurpsCharacterCreator.dll
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\bin\Debug\netcoreapp3.1\GurpsCharacterCreator.pdb
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.AssemblyInfoInputs.cache
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.AssemblyInfo.cs
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.dll
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.pdb
+C:\Users\Joshua\source\repos\GurpsCharacterCreator\GurpsCharacterCreator\obj\Debug\netcoreapp3.1\GurpsCharacterCreator.genruntimeconfig.cache
